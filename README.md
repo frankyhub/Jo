@@ -1,3 +1,5 @@
+<a name="oben"></a>
+
 # Jo
 Little Bot mit 4 Servos
 
@@ -5,26 +7,45 @@ Little Bot mit 4 Servos
 
 ### Hardware
 
-1	ABS Platte DINA4 2mm
-4	Platinenhalter (3D-Druck)
-4	Abstandshalter M3*25 Kunststoff
+
+| Anzahl | Bezeichnung | 
+| -------- | -------- | 
+| 1  | ABS Platte DINA4 2mm   |
+| 4  |  Platinenhalter (3D-Druck)  |
+| 4  | Abstandshalter M3*25 Kunststoff   |
+|  1 | Ardunio NANO   |
+|  4 | SG90 Servo   |
+|  1 |  HCSR04 Ultraschallsensor  |
+|  1 | LM 2596S Spannungsregler 5V   |
+|  1 |  9V Batterie mit Gehäuse  |
+| ---  | ---   |
+
+
+
+
 	
-1	Ardunio NANO
-4	SG90 Servo
-1	HCSR04 Ultraschallsensor
-1	LM 2596S Spannungsregler 5V
-1	9V Batterie mit Gehäuse
-	
-Schrauben
-10	M1.5*5
-6	M1.4*8
-12	M2*8
-18	M3*5
-8	M3*8 Senkkopf
-	Muttern
-6	M1.4
-12	M2
-8	M3 selbstsichernd
+#### Schrauben
+
+| Anzahl | Bezeichnung | 
+| -------- | -------- | 
+| 10  | M1.5x5 |
+| 6  |  M1.4x8  |
+| 12   | M2x8   |
+| 12  |  M2x8  |
+| 18  |  M3x5  |
+| 8  |  M3x8 Senkkopf  |
+| ---  | ---   |
+
+
+#### Muttern
+
+| Anzahl | Bezeichnung | 
+| -------- | -------- | 
+| 6  | M1.4  |
+| 12  |  M2  |
+| 8  |  M3 selbstsichernd  |
+|  --- |  ---  |
+
 
 ### Schritt 1: 
 
@@ -85,7 +106,9 @@ Ferse und Schenkel verschrauben. Die Teile müssen beweglich bleiben, so dass de
 
 ![Bild](pic/jo8.png)
 
-Fertig!
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div> 
 
 
 
