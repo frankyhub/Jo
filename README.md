@@ -3,6 +3,12 @@
 # Jo
 Little Bot mit 4 Servos
 
+
+![Bild](pic/jo8.png)
+
+
+
+
 ## Bauanleitung
 
 ### Hardware
@@ -104,7 +110,7 @@ Ferse und Schenkel verschrauben. Die Teile müssen beweglich bleiben, so dass de
 
 ### Schritt 10: Funktionstest
 
-![Bild](pic/jo8.png)
+
 
 <div style="position:absolute; left:2cm; ">   
 <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
