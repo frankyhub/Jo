@@ -3,13 +3,16 @@
 # Jo
 Little Bot mit 4 Servos
 
-
 ![Bild](pic/jo8.png)
 
+### Story
+Diese Bauanleitung beschreibt einen tanzenden Bot. Jedes Bein hat zwei Gelenke die von Servo-Motoren bewegt werden. Als Steuerung dient ein Arduino NANO, gespeist von einer 9V-Batterie. Das Programm kann um eine Hindernis-Erkennung erweitert werden, da beim Bot auch ein Ultraschall-Sensor verbaut ist.
+Die Bot-Elemente werden aus einer 2mm ABS-Platte und einer 2mm Sperrholzplatte (Füße) gelasert. Die Montage erfordert etwas Geschick.
 
 
 
-## Bauanleitung
+
+### Bauanleitung
 
 ### Hardware
 
