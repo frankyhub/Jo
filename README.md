@@ -5,16 +5,17 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Jo/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Jo/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Jo/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2042-blue)|<a href="https://github.com/frankyhub/Jo/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Jo)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Jo)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Jo)| <a href="https://github.com/frankyhub/Jo/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Jo/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
-</div>
+<a href="https://github.com/frankyhub/Jo/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Jo)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Jo)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2042-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Jo)| <a href="https://github.com/frankyhub/Jo/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Jo/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
+</div>
 
 
 # Jo
 Little Bot mit 4 Servos
 
-![Bild](pic/jo8.png)
+<img src="pic/jo8.png" width="500"> 
+<br> <br>
 
 ### Story
 Diese Bauanleitung beschreibt einen tanzenden Bot. Jedes Bein hat zwei Gelenke die von Servo-Motoren bewegt werden. Als Steuerung dient ein Arduino NANO, gespeist von einer 9V-Batterie. Das Programm kann um eine Hindernis-Erkennung erweitert werden, da beim Bot auch ein Ultraschall-Sensor verbaut ist.
@@ -71,8 +72,9 @@ Die Bot-Elemente werden aus einer 2mm ABS-Platte und einer 2mm Sperrholzplatte (
 
 - Die ABS-Platten lasern, Verwende die lbrn Vorlagen
 
+<img src="pic/jo1.png" width="500"> 
+<br> <br>
 
-![Bild](pic/jo1.png)
 
 ### Schritt 2: 
 
@@ -80,45 +82,56 @@ Die Bot-Elemente werden aus einer 2mm ABS-Platte und einer 2mm Sperrholzplatte (
 
 - Füße: Beide Schenkel gleich lang, Innenmaß 37 mm
 
-![Bild](pic/jo2.png)
+<img src="pic/jo2.png" width="500"> 
+<br> <br>
 
-- Bohrungen: 
+- Bohrungen:
 
-![Bild](pic/jo2a.png)
+
+<img src="pic/jo2a.png" width="500"> 
+<br> <br>
 
 - Ferse biegen, beide Schenkel gleich lang:
 
-![Bild](pic/jo2b.png)
+
+<img src="pic/jo2b.png" width="500"> 
+<br> <br>
 
 - Bohrungen: Für die 1,5mm Bohrungen des Servos, den Servo als Bohrschablone verwenden.
 
-![Bild](pic/jo2c.png)
+
+<img src="pic/jo2c.png" width="500"> 
+<br> <br>
 
 ### Schritt 3: Die Platinenhalter drucken
 
 ### Schritt 4: Die Schrittmotoren auf die Grundplatte und an die Fersen montieren und verschrauben (alternativ kleben). 
 Ferse und Schenkel verschrauben. Die Teile müssen beweglich bleiben, so dass der Schrittmotor den Schenkel bewegen kann.
 
-![Bild](pic/jo3.png)
 
-![Bild](pic/jo4.png)
+<img src="pic/jo3.png" width="500"> 
+<br> <br>
 
+<img src="pic/jo4.png" width="500"> 
+<br> <br>
 
 ### Schritt 5: Den Ultraschallsensor an die Deckplatte montieren (alternativ kleben).
 
 ### Schritt 6: Den Arduino NANO auf die Deckplatte montieren.
 
-![Bild](pic/jo5.png)
-
+<img src="pic/jo5.png" width="500"> 
+<br> <br>
 
 ### Schritt 7: Den Batteriehalter an die Grundplatte montieren (alternativ kleben).
 
-![Bild](pic/jo6.png)
+<img src="pic/jo6.png" width="500"> 
+<br> <br>
 
 
 ### Schritt 8: Die Schrittmotoren, den Ultraschallsensor und den Batteriehalter nach Schaltplan verdrahten.
 
-![Bild](pic/jo7.png)
+<img src="pic/jo7.png" width="500"> 
+<br> <br>
 
 ### Schritt 9: Das Programm in den Arduino NANO laden
 
