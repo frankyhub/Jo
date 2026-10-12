@@ -5,19 +5,15 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Jo/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Jo/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Jo/wiki)||
 |--|--|--|--|
 | | | | |
-<a href="https://github.com/frankyhub/Jo/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Jo)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Jo)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2042-blue)|
+<a href="https://github.com/frankyhub/Jo/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Jo)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Jo)|<a href="https://github.com/frankyhub/Jo/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Jo)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20043-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Jo)| <a href="https://github.com/frankyhub/Jo/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Jo/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
-
-</div>
-
-
-# Jo
-Little Bot mit 4 Servos
 
 <img src="pic/jo8.png" width="500"> 
 <br> <br>
 
-### Story
+</div>
+
+## Story
 Diese Bauanleitung beschreibt einen tanzenden Bot. Jedes Bein hat zwei Gelenke die von Servo-Motoren bewegt werden. Als Steuerung dient ein Arduino NANO, gespeist von einer 9V-Batterie. Das Programm kann um eine Hindernis-Erkennung erweitert werden, da beim Bot auch ein Ultraschall-Sensor verbaut ist.
 Die Bot-Elemente werden aus einer 2mm ABS-Platte und einer 2mm Sperrholzplatte (Füße) gelasert. Die Montage erfordert etwas Geschick.
 
